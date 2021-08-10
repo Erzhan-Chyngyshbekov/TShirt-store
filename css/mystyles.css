@@ -1,0 +1,17 @@
+.carousel-inner div img{
+    width: 100% !important;
+    height: 400px !important;
+    object-fit: cover !important;
+}
+
+#saveToCartBtn{
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#saveToCartBtn img{
+    width: 25px;
+    height: 25px;
+}
